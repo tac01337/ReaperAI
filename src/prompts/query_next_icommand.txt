@@ -1,0 +1,30 @@
+Role:
+
+${current_role}
+
+Current State:
+
+${state}
+
+This is the history. Use this so you DO NOT repeat commands.
+
+${history}
+
+Objective:
+
+${current_task}
+
+Context:
+
+Here is what has happened on the cli:
+${before}
+
+Analyzation:
+${analyzation}
+
+Prompt for the LLM:
+
+Given that you have just opened a interactive session through a pexpect.spawn
+session, what is the next command you should issue? Do not repeat commands.
+Ensure based on what happened in the cli that the correct command is generated. Do not
+include any explanations or any prefixes. Only provide the command to run.

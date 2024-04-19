@@ -1,0 +1,8 @@
+Given the specific command provided, identify ALL possible regex patterns that
+could potentially match the final line of its output. The reason is so that the
+pexpect can know when to read the pexpect buffer for the next input. Please be
+as thorough as possible and include any potential prompts for input. Please
+exclude any explanations or discussions from the response. Present the list of
+regex patterns in an json array.
+
+Command: ${command}

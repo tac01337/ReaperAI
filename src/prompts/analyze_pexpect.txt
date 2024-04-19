@@ -1,0 +1,10 @@
+Analyze the output from the program and give an explanation of what the after
+and before are describing. We need this to make the decision what the next
+command should be so give a summary on the before and after.
+
+State: ${facts}
+
+Command: ${cmd}
+pexpect.before: ${before}
+
+Summary (in ${summary_max_chars} or fewer characters):

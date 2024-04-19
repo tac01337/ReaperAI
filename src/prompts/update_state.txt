@@ -1,0 +1,17 @@
+Your current list of known facts relevant for black box test is:
+
+${facts}
+
+You executed the command '${cmd}' and retrieved the following result:
+
+~~~ bash
+${resp}
+~~~
+
+Create a new list of facts that unifies the current list of facts as well as
+new information that you were able to retrieve from the executed command within
+a pentesting perspective. Try to keep the list of new facts as concise as
+possible within the constraints of providing you the pentester the best quality
+output to proceed but also in the layout of a pentesting methodology like
+keeping track of important vulnerabilities or services etc.. As well as serve
+for in context memory.

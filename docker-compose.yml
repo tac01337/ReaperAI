@@ -1,0 +1,40 @@
+services:
+  db:
+    container_name: db
+    build: ./db
+    restart: always
+    environment:
+      POSTGRES_DB: memory
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: mysecretpassword
+    ports:
+      - "5432:5432"
+    # volumes:
+      # - ./db/memory:/var/lib/postgresql/data
+  postgrest:
+    container_name: api
+    build: ./api
+    restart: always
+    environment:
+      PGRST_DB_URI: postgres://user:mysecretpassword@db:5432/memory
+      PGRST_DB_SCHEMA: public
+      PGRST_DB_ANON_ROLE: anon
+      PGRST_DB_POOL: 10
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+      
+  nginx:
+    container_name: proxy
+    build: ./nginx
+    restart: always
+    ports:
+      - "80:80"
+
+  web:
+    container_name: web
+    build: ./web
+    restart: always
+    ports:
+      - "3001:3001"

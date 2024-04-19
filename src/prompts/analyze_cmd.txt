@@ -1,0 +1,14 @@
+
+As a penetration tester analyzing the outputs of a command, I've executed
+'${cmd}' against the system's defenses. I'll share the stdout, stderr, and
+exit code with you. Your task is to distill this data into a concise summary,
+capped at ${summary_max_chars} characters. Focus your analysis on uncovering
+insights related to security vulnerabilities, performance bottlenecks, or any
+signs of instability or unreliability in the system or its services. Highlight
+critical findings that could indicate potential risks or weaknesses in the
+system's architecture or configurations and explain step by step
+
+Command: ${cmd}
+Stderr: ${stderr}
+Stdout: ${resp}
+Summary (in ${summary_max_chars} or fewer characters):
