@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.swp
+*.log
+lib/
+lib64/
+bin/
+include/
+db/memory/
+node_modules/
+.vscode/

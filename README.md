@@ -148,9 +148,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Leroy Jacob Valencia - [LinkedIn](https://www.linkedin.com/in/ljvalen/) - leroy.valencia@student.nmt.edu
-
-Project Link: [https://github.com/ljvalen-nmt/ReaperAI](https://github.com/ljvalen-nmt/ReaperAI)
-
+Project Link: [https://github.com/tac01337/ReaperAI](https://github.com/tac01337/ReaperAI)
+Discord: [https://discord.gg/zBrvMT8xfv](https://discord.gg/zBrvMT8xfv)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
