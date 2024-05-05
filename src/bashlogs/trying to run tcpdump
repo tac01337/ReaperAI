@@ -1,8 +1,15 @@
 Script started on 2024-04-07 19:07:29-06:00 [TERM="xterm-256color" TTY="/dev/pts/13" COLUMNS="210" LINES="21"]
 [?2004h]0;user@debian: ~/Documents/hackingBuddyGPT[01;32muser@debian[00m:[01;34m~/Documents/hackingBuddyGPT[00m$ /bin/python3 /home/user/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/user/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
-[?2004l[?2004h]0;user@debian: ~/Documents/hackingBuddyGPT[01;32muser@debian[00m:[01;34m~/Documents/hackingBuddyGPT[00m$ /bin/python3 /home/user/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/user/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt[Agit push[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "Adding new runs, and attempting to fix vauge objectives"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[Kstatuspython3 wintermute.py  --target-ip 10.10.10.40[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pnmap -p 445[C[C[C[C[C[C[C[C[C[C[C[C[23@python3 wintermute.py  --target-ip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pnmap -p 445[C[C[C[C[C[C[C[C[C[C[C[C[23@python3 wintermute.py  --target-ip[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kpython3 wintermute.py  --target-ip 10.10.10.40
-[?2004l[2;36m[19:07:39][0m[2;36m [0m[1;35mConfig[0m[1m([0m                                                                                                                                                                                ]8;id=173180;file:///home/user/Documents/hackingBuddyGPT/wintermute.py\[2mwintermute.py[0m]8;;\[2m:[0m]8;id=4039;file:///home/user/Documents/hackingBuddyGPT/wintermute.py#45\[2m45[0m]8;;\
+[?2004l
+[?2004h]0;user@debian: ~/Documents/hackingBuddyGPT[01;32muser@debian[00m:[01;34m~/Documents/hackingBuddyGPT[00m$ /bin/python3 /home/user/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/user/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt[Agit push[K
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "Adding new runs, and attempting to fix vauge objectives"
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd .[Kstatuspython3 wintermute.py  --target-ip 10.10.10.40
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pnmap -p 445[C[C[C[C[C[C[C[C[C[C[C[C[23@python3 wintermute.py  --target-ip[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pnmap -p 445[C[C[C[C[C[C[C[C[C[C[C[C[23@python3 wintermute.py  --target-ip[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kpython3 wintermute.py  --target-ip 10.10.10.40
+[?2004l
+[2;36m[19:07:39][0m[2;36m [0m[1;35mConfig[0m[1m([0m                                                                                                                                                                                ]8;id=173180;file:///home/user/Documents/hackingBuddyGPT/wintermute.py\[2mwintermute.py[0m]8;;\[2m:[0m]8;id=4039;file:///home/user/Documents/hackingBuddyGPT/wintermute.py#45\[2m45[0m]8;;\
 [2;36m           [0m    [33menable_explanation[0m=[3;91mFalse[0m,                                                                                                                                                          [2m                [0m
 [2;36m           [0m    [33menable_update_state[0m=[3;91mFalse[0m,                                                                                                                                                         [2m                [0m
 [2;36m           [0m    [33mdisable_history[0m=[3;91mFalse[0m,                                                                                                                                                             [2m                [0m
@@ -46,10 +53,15 @@ Adding Task Execute a network sniffing and packet capture analysis to observe an
 │ │   Pivoting                                                                                                                                                     │ pending │ Pivoting                        │ │
 │ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴─────────┴─────────────────────────────────┘ │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠋[0m [1;32mAdding Recon Tasks to the task tree...[0m[2K[32m⠋[0m [1;32mAdding Recon Tasks to the task tree...[0m
-[?25h[1A[2K[2;36m[19:07:42][0m[2;36m [0m[33mStarting iteration [0m[1;33m0[0m[33m of [0m[1;33m5[0m                                                                                                                                                             ]8;id=679117;file:///home/user/Documents/hackingBuddyGPT/wintermute.py\[2mwintermute.py[0m]8;;\[2m:[0m]8;id=305726;file:///home/user/Documents/hackingBuddyGPT/wintermute.py#129\[2m129[0m]8;;\
-[?25l[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[]
-[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K
+[32m⠋[0m [1;32mAdding Recon Tasks to the task tree...[0m
+[2K[32m⠋[0m [1;32mAdding Recon Tasks to the task tree...[0m
+[?25h
+[1A[2K[2;36m[19:07:42][0m[2;36m [0m[33mStarting iteration [0m[1;33m0[0m[33m of [0m[1;33m5[0m                                                                                                                                                             ]8;id=679117;file:///home/user/Documents/hackingBuddyGPT/wintermute.py\[2mwintermute.py[0m]8;;\[2m:[0m]8;id=305726;file:///home/user/Documents/hackingBuddyGPT/wintermute.py#129\[2m129[0m]8;;\
+[?25l[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[]
+[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K
 Your current role:
 
 "As a pentesting operator, I am currently working on a Debian Linux machine in a bash shell. My objective is to perform a black box penetration test on a machine. Following the standard pentesting methodology 
@@ -99,16 +111,35 @@ Given the current role, objective, constraints, history, and state, and analysis
 
 
 
-[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K
-[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m[2K╭──────────────────────────────────────────────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ─────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K
+[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m
+[2K╭──────────────────────────────────────────────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ─────────────────────────────────────────────────────────────────────────────────────────────╮
 │ nmap -sS -T4 10.10.10.40                                                                                                                                                                                       │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠇[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m
-[?25h[1A[2K[?25l╭─────────────────────────────────────────────────────────────────────────────────────────── [1;36mnmap -sS -T4 10.10.10.40[0m ───────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠇[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m
+[?25h
+[1A[2K[?25l╭─────────────────────────────────────────────────────────────────────────────────────────── [1;36mnmap -sS -T4 10.10.10.40[0m ───────────────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                                                                                                                                                │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠋[0m [1;32mExecuting that command...[0m[2K[32m⠋[0m [1;32mExecuting that command...[0m
-[?25h[1A[2K[?25l
+[32m⠋[0m [1;32mExecuting that command...[0m
+[2K[32m⠋[0m [1;32mExecuting that command...[0m
+[?25h
+[1A[2K[?25l
 As a penetration tester analyzing the outputs of a command, I've executed 'nmap -sS -T4 10.10.10.40' to probe the system's defenses. I'll share the stdout, stderr, and exit code with you. Your task is to 
 distill this data into a concise summary, capped at 500 characters. Focus your analysis on uncovering insights related to security vulnerabilities, performance bottlenecks, or any signs of instability or 
 unreliability in the system or its services. Highlight critical findings that could indicate potential risks or weaknesses in the system's architecture or configurations.
@@ -119,14 +150,60 @@ QUITTING!
 
 Stdout: 
 Summary (in 500 or fewer characters):
-[32m⠋[0m [1;32mAnalyze its result...[0m[2K
-[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K╭───────────────────────────────────────────────────────────────────────────────────────────────── [1;36mAnalyzation[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K
+[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K╭───────────────────────────────────────────────────────────────────────────────────────────────── [1;36mAnalyzation[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ The executed nmap command, intended for probing system defenses on IP 10.10.10.40, failed due to insufficient privileges. Specifically, it attempted a SYN scan (-sS), which requires root access, but was     │
 │ executed without such privileges. This error highlights the importance of adequate permissions for conducting in-depth security assessments. No insights into vulnerabilities, performance, or stability were  │
 │ obtained from this attempt, indicating a need to rerun with appropriate access rights for meaningful analysis.                                                                                                 │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m
-[?25h[1A[2K[?25lYour current list of known facts relevant for black box test is:
+[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[?25h
+[1A[2K[?25lYour current list of known facts relevant for black box test is:
 
 
         - this is a linux system
@@ -139,9 +216,197 @@ You executed the command 'nmap -sS -T4 10.10.10.40' and retrieved the following 
 ~~~
 
 Create a new list of facts that unifies the current list of facts as
-[32m⠋[0m [1;32mUpdating fact list..[0m[2Kwell as new information that you were able to retrieve from the executed command within a pentesting perspective. Try to keep the list of new facts as concise as possible but also in the layout of a pentesting 
+[32m⠋[0m [1;32mUpdating fact list..[0m
+[2Kwell as new information that you were able to retrieve from the executed command within a pentesting perspective. Try to keep the list of new facts as concise as possible but also in the layout of a pentesting 
 methodology. As well as serve for in context memory. It should also contain the lists of any critical information gathered.
-[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K╭──────────────────────────────────────────────────────────────────────────────────────────────────── [1;36mState[0m ─────────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K╭──────────────────────────────────────────────────────────────────────────────────────────────────── [1;36mState[0m ─────────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ Given the scenario and the output from the 'nmap -sS -T4 10.10.10.40' command appears to be missing, I will assume the intended task is to discuss the potential outcomes of such a command and illustrate the │
 │ type of information that could be gleaned to create a new list of facts. Therefore, I will provide a hypothetical response assuming common outputs for such an Nmap scan and integrate these with the initial  │
 │ fact.                                                                                                                                                                                                          │
@@ -183,8 +448,10 @@ methodology. As well as serve for in context memory. It should also contain the 
 │ investigation to determine if it is securely configured and updated, or if it possesses vulnerabilities that can be exploited. The next steps involve a deeper examination of these services to assess the     │
 │ security posture of the target system comprehensively.                                                                                                                                                         │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m
-[?25h[1A[2K[?25lYou are an advanced LLM designed to assist in cybersecurity operations, specifically in evaluating the progress of "Active Reconnaissance" tasks during penetration testing phases. Based on the given inputs, 
+[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[?25h
+[1A[2K[?25lYou are an advanced LLM designed to assist in cybersecurity operations, specifically in evaluating the progress of "Active Reconnaissance" tasks during penetration testing phases. Based on the given inputs, 
 your goal is to determine the appropriate next steps in the "Active Reconnaissance" process by considering time limits, and diminishing returns.
 
 Inputs:
@@ -253,10 +520,115 @@ compared to the old:
 If diminishing returns are detected, recommend stopping "Perform a port scan using tools like Nmap to identify open ports and possible services running on the machine." and proceeding to the next task.
 Output:
 
-[32m⠋[0m [1;32m Evaluating progress...[0m[2KProvide True or False. The recommendation should indicate whether to continue "Perform a port scan using tools like Nmap to identify open ports and possible services running on the machine.", move to the 
+[32m⠋[0m [1;32m Evaluating progress...[0m
+[2KProvide True or False. The recommendation should indicate whether to continue "Perform a port scan using tools like Nmap to identify open ports and possible services running on the machine.", move to the 
 exploitation phase, or conclude the "Perform a port scan using tools like Nmap to identify open ports and possible services running on the machine." phase due to coverage thresholds being met or diminishing 
 returns.
-[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K╭───────────────────────────────────────────────────────────────────────────────────────── [1;36mEvaluating Progress of Recon[0m ─────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K╭───────────────────────────────────────────────────────────────────────────────────────── [1;36mEvaluating Progress of Recon[0m ─────────────────────────────────────────────────────────────────────────────────────────╮
 │ True                                                                                                                                                                                                           │
 │                                                                                                                                                                                                                │
 │ Based on the input and constraints provided, the recommendation indicates that it is time to conclude the "Perform a port scan using tools like Nmap to identify open ports and possible services running on   │
@@ -269,8 +641,10 @@ returns.
 │ limited to, testing for weak credentials, attempting exploitation of known vulnerabilities, and examining web applications for common security issues. Given the limited time and the information gained,      │
 │ moving towards targeted exploitation and vulnerability assessment is the recommended course of action.                                                                                                         │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m
-[?25h[1A[2K╭────────────────────────────────────────────────────────────────────────────────────────────────── [1;36m Task Tree[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[?25h
+[1A[2K╭────────────────────────────────────────────────────────────────────────────────────────────────── [1;36m Task Tree[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓ │
 │ ┃[1;35m [0m[1;35mName                                                                                                                                                        [0m[1;35m [0m┃[1;35m [0m[1;35mStatus   [0m[1;35m [0m┃[1;35m [0m[1;35mDescription                    [0m[1;35m [0m┃ │
 │ ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩ │
@@ -330,7 +704,8 @@ returns.
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 [2;36m[19:08:11][0m[2;36m [0m[33mStarting iteration [0m[1;33m1[0m[33m of [0m[1;33m5[0m                                                                                                                                                             ]8;id=707158;file:///home/user/Documents/hackingBuddyGPT/wintermute.py\[2mwintermute.py[0m]8;;\[2m:[0m]8;id=742782;file:///home/user/Documents/hackingBuddyGPT/wintermute.py#129\[2m129[0m]8;;\
 [?25l[['nmap -sS -T4 10.10.10.40', '']]
-[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K
+[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K
 Your current role:
 
 "As a pentesting operator, I am currently working on a Debian Linux machine in a bash shell. My objective is to perform a black box penetration test on a machine. Following the standard pentesting methodology 
@@ -427,16 +802,38 @@ Given the current role, objective, constraints, history, and state, and analysis
 
 
 
-[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K
-[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K╭──────────────────────────────────────────────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ─────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K
+[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K╭──────────────────────────────────────────────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ─────────────────────────────────────────────────────────────────────────────────────────────╮
 │ openvas-setup                                                                                                                                                                                                  │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
-[?25h[1A[2K[?25l╭──────────────────────────────────────────────────────────────────────────────────────────────── [1;36mopenvas-setup[0m ─────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[?25h
+[1A[2K[?25l╭──────────────────────────────────────────────────────────────────────────────────────────────── [1;36mopenvas-setup[0m ─────────────────────────────────────────────────────────────────────────────────────────────────╮
 │                                                                                                                                                                                                                │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠋[0m [1;32mExecuting that command...[0m[2K[32m⠋[0m [1;32mExecuting that command...[0m
-[?25h[1A[2K[?25l
+[32m⠋[0m [1;32mExecuting that command...[0m
+[2K[32m⠋[0m [1;32mExecuting that command...[0m
+[?25h
+[1A[2K[?25l
 As a penetration tester analyzing the outputs of a command, I've executed 'openvas-setup' to probe the system's defenses. I'll share the stdout, stderr, and exit code with you. Your task is to distill this data
 into a concise summary, capped at 500 characters. Focus your analysis on uncovering insights related to security vulnerabilities, performance bottlenecks, or any signs of instability or unreliability in the 
 system or its services. Highlight critical findings that could indicate potential risks or weaknesses in the system's architecture or configurations.
@@ -446,14 +843,54 @@ Stderr: /bin/sh: 1: openvas-setup: not found
 
 Stdout: 
 Summary (in 500 or fewer characters):
-[32m⠋[0m [1;32mAnalyze its result...[0m[2K
-[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K╭───────────────────────────────────────────────────────────────────────────────────────────────── [1;36mAnalyzation[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K
+[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K╭───────────────────────────────────────────────────────────────────────────────────────────────── [1;36mAnalyzation[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ The command 'openvas-setup' failed to execute due to its absence in the system's path, indicated by "/bin/sh: 1: openvas-setup: not found". This error suggests either OpenVAS is not installed or the         │
 │ environment is not correctly set up, potentially leaving the system's security posture unassessed. Immediate attention is required to ensure vulnerability analysis tools are properly installed and           │
 │ operational, to avoid undetected security risks.                                                                                                                                                               │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m
-[?25h[1A[2K[?25lYour current list of known facts relevant for black box test is:
+[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[?25h
+[1A[2K[?25lYour current list of known facts relevant for black box test is:
 
 Given the scenario and the output from the 'nmap -sS -T4 10.10.10.40' command appears to be missing, I will assume the intended task is to discuss the potential outcomes of such a command and illustrate the 
 type of information that could be gleaned to create a new list of facts. Therefore, I will provide a hypothetical response assuming common outputs for such an Nmap scan and integrate these with the initial 
@@ -503,9 +940,241 @@ You executed the command 'openvas-setup' and retrieved the following result:
 ~~~
 
 Create a new list of facts that unifies the current list of facts as
-[32m⠋[0m [1;32mUpdating fact list..[0m[2Kwell as new information that you were able to retrieve from the executed command within a pentesting perspective. Try to keep the list of new facts as concise as possible but also in the layout of a pentesting 
+[32m⠋[0m [1;32mUpdating fact list..[0m
+[2Kwell as new information that you were able to retrieve from the executed command within a pentesting perspective. Try to keep the list of new facts as concise as possible but also in the layout of a pentesting 
 methodology. As well as serve for in context memory. It should also contain the lists of any critical information gathered.
-[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K╭──────────────────────────────────────────────────────────────────────────────────────────────────── [1;36mState[0m ─────────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K╭──────────────────────────────────────────────────────────────────────────────────────────────────── [1;36mState[0m ─────────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ Given that the OpenVAS setup result is not detailed, I'll provide an extrapolation based on what typically happens during and after the `openvas-setup` command execution in a pen-testing scenario. This      │
 │ extrapolation will integrate known facts and possible outcomes into a unified list, reflecting a comprehensive pentesting approach.                                                                            │
 │                                                                                                                                                                                                                │
@@ -542,8 +1211,10 @@ methodology. As well as serve for in context memory. It should also contain the 
 │ Following the identification of potential vulnerabilities, a more detailed and focused investigation into each service is necessary, utilizing both the information provided by OpenVAS and supplementary      │
 │ penetration testing tools and techniques for a thorough security evaluation.                                                                                                                                   │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m
-[?25h[1A[2K[?25lYou are an advanced LLM designed to assist in cybersecurity operations, specifically in evaluating the progress of "Active Reconnaissance" tasks during penetration testing phases. Based on the given inputs, 
+[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[?25h
+[1A[2K[?25lYou are an advanced LLM designed to assist in cybersecurity operations, specifically in evaluating the progress of "Active Reconnaissance" tasks during penetration testing phases. Based on the given inputs, 
 your goal is to determine the appropriate next steps in the "Active Reconnaissance" process by considering time limits, and diminishing returns.
 
 Inputs:
@@ -646,10 +1317,148 @@ If diminishing returns are detected, recommend stopping "Conduct a vulnerability
 next task.
 Output:
 
-[32m⠋[0m [1;32m Evaluating progress...[0m[2KProvide True or False. The recommendation should indicate whether to continue "Conduct a vulnerability scan on identified open services to find potential exploitation points using tools like Nessus or 
+[32m⠋[0m [1;32m Evaluating progress...[0m
+[2KProvide True or False. The recommendation should indicate whether to continue "Conduct a vulnerability scan on identified open services to find potential exploitation points using tools like Nessus or 
 OpenVAS.", move to the exploitation phase, or conclude the "Conduct a vulnerability scan on identified open services to find potential exploitation points using tools like Nessus or OpenVAS." phase due to 
 coverage thresholds being met or diminishing returns.
-[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠇[0m [1;32m Evaluating progress...[0m[2K[32m⠏[0m [1;32m Evaluating progress...[0m[2K[32m⠋[0m [1;32m Evaluating progress...[0m[2K[32m⠙[0m [1;32m Evaluating progress...[0m[2K[32m⠹[0m [1;32m Evaluating progress...[0m[2K[32m⠸[0m [1;32m Evaluating progress...[0m[2K[32m⠼[0m [1;32m Evaluating progress...[0m[2K[32m⠴[0m [1;32m Evaluating progress...[0m[2K[32m⠦[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m[2K╭───────────────────────────────────────────────────────────────────────────────────────── [1;36mEvaluating Progress of Recon[0m ─────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠇[0m [1;32m Evaluating progress...[0m
+[2K[32m⠏[0m [1;32m Evaluating progress...[0m
+[2K[32m⠋[0m [1;32m Evaluating progress...[0m
+[2K[32m⠙[0m [1;32m Evaluating progress...[0m
+[2K[32m⠹[0m [1;32m Evaluating progress...[0m
+[2K[32m⠸[0m [1;32m Evaluating progress...[0m
+[2K[32m⠼[0m [1;32m Evaluating progress...[0m
+[2K[32m⠴[0m [1;32m Evaluating progress...[0m
+[2K[32m⠦[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K╭───────────────────────────────────────────────────────────────────────────────────────── [1;36mEvaluating Progress of Recon[0m ─────────────────────────────────────────────────────────────────────────────────────────╮
 │ Based on the provided information, the decision involves evaluating two key factors: whether the time limit has been exceeded for the current task, and if diminishing returns have been met according to the  │
 │ given constraints.                                                                                                                                                                                             │
 │                                                                                                                                                                                                                │
@@ -677,8 +1486,10 @@ coverage thresholds being met or diminishing returns.
 │ Therefore, the general recommendation based on the provided information is **True** (continue the "Conduct a vulnerability scan on identified open services to find potential exploitation points using tools  │
 │ like Nessus or OpenVAS.").                                                                                                                                                                                     │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠧[0m [1;32m Evaluating progress...[0m[2K[32m⠧[0m [1;32m Evaluating progress...[0m
-[?25h[1A[2K╭────────────────────────────────────────────────────────────────────────────────────────────────── [1;36m Task Tree[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠧[0m [1;32m Evaluating progress...[0m
+[2K[32m⠧[0m [1;32m Evaluating progress...[0m
+[?25h
+[1A[2K╭────────────────────────────────────────────────────────────────────────────────────────────────── [1;36m Task Tree[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓ │
 │ ┃[1;35m [0m[1;35mName                                                                                                                                                        [0m[1;35m [0m┃[1;35m [0m[1;35mStatus   [0m[1;35m [0m┃[1;35m [0m[1;35mDescription                    [0m[1;35m [0m┃ │
 │ ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩ │
@@ -733,7 +1544,8 @@ coverage thresholds being met or diminishing returns.
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 [2;36m[19:08:45][0m[2;36m [0m[33mStarting iteration [0m[1;33m2[0m[33m of [0m[1;33m5[0m                                                                                                                                                             ]8;id=205966;file:///home/user/Documents/hackingBuddyGPT/wintermute.py\[2mwintermute.py[0m]8;;\[2m:[0m]8;id=869133;file:///home/user/Documents/hackingBuddyGPT/wintermute.py#129\[2m129[0m]8;;\
 [?25l[['nmap -sS -T4 10.10.10.40', ''], ['openvas-setup', '']]
-[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K
+[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K
 Your current role:
 
 "As a pentesting operator, I am currently working on a Debian Linux machine in a bash shell. My objective is to perform a black box penetration test on a machine. Following the standard pentesting methodology 
@@ -826,16 +1638,47 @@ Given the current role, objective, constraints, history, and state, and analysis
 
 
 
-[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K
-[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K╭──────────────────────────────────────────────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ─────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K
+[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠦[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠧[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠇[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠏[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠋[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠙[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠹[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠸[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠼[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K╭──────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ─────────────────────────────────────────────────────────────────────────────────────────────╮
 │ tcpdump -i any -nn -s0 -w capture.pcap host 10.10.10.40                                                                                                                                                        │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠴[0m [1;32mAsking LLM for a new command...[0m[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
-[?25h[1A[2K[?25l╭─────────────────────────────────────────────────────────────────────────── [1;36mtcpdump -i any -nn -s0 -w capture.pcap host 10.10.10.40[0m ────────────────────────────────────────────────────────────────────────────╮
+[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[2K[32m⠴[0m [1;32mAsking LLM for a new command...[0m
+[?25h
+[1A[2K[?25l╭─────────────────────────────────────────────────────────────────────────── [1;36mtcpdump -i any -nn -s0 -w capture.pcap host 10.10.10.40[0m ────────────────────────────────────────────────────────────────────────────╮
 │                                                                                                                                                                                                                │
-╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠋[0m [1;32mExecuting that command...[0m[2K[32m⠋[0m [1;32mExecuting that command...[0m
-[?25h[1A[2K[?25l
+╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[32m⠋[0m [1;32mExecuting that command...[0m
+[2K[32m⠋[0m [1;32mExecuting that command...[0m
+[?25h
+[1A[2K[?25l
 As a penetration tester analyzing the outputs of a command, I've executed 'tcpdump -i any -nn -s0 -w capture.pcap host 10.10.10.40' to probe the system's defenses. I'll share the stdout, stderr, and exit code 
 with you. Your task is to distill this data into a concise summary, capped at 500 characters. Focus your analysis on uncovering insights related to security vulnerabilities, performance bottlenecks, or any 
 signs of instability or unreliability in the system or its services. Highlight critical findings that could indicate potential risks or weaknesses in the system's architecture or configurations.
@@ -845,14 +1688,51 @@ Stderr: /bin/sh: 1: tcpdump: not found
 
 Stdout: 
 Summary (in 500 or fewer characters):
-[32m⠋[0m [1;32mAnalyze its result...[0m[2K
-[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠼[0m [1;32mAnalyze its result...[0m[2K[32m⠴[0m [1;32mAnalyze its result...[0m[2K[32m⠦[0m [1;32mAnalyze its result...[0m[2K[32m⠧[0m [1;32mAnalyze its result...[0m[2K[32m⠇[0m [1;32mAnalyze its result...[0m[2K[32m⠏[0m [1;32mAnalyze its result...[0m[2K[32m⠋[0m [1;32mAnalyze its result...[0m[2K[32m⠙[0m [1;32mAnalyze its result...[0m[2K[32m⠹[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m[2K╭───────────────────────────────────────────────────────────────────────────────────────────────── [1;36mAnalyzation[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
+[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K
+[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠼[0m [1;32mAnalyze its result...[0m
+[2K[32m⠴[0m [1;32mAnalyze its result...[0m
+[2K[32m⠦[0m [1;32mAnalyze its result...[0m
+[2K[32m⠧[0m [1;32mAnalyze its result...[0m
+[2K[32m⠇[0m [1;32mAnalyze its result...[0m
+[2K[32m⠏[0m [1;32mAnalyze its result...[0m
+[2K[32m⠋[0m [1;32mAnalyze its result...[0m
+[2K[32m⠙[0m [1;32mAnalyze its result...[0m
+[2K[32m⠹[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K╭───────────────────────────────────────────────────────────────────────────────────────────────── [1;36mAnalyzation[0m ──────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ The attempted command to capture network traffic targeting host 10.10.10.40 failed due to the absence of the 'tcpdump' tool on the system (`/bin/sh: 1: tcpdump: not found`). This indicates either a          │
 │ misconfiguration or an incomplete setup of diagnostic or monitoring tools on the system, potentially leaving blind spots in security monitoring and vulnerability assessment capabilities. It's vital to       │
 │ ensure essential tools are available for effective security analysis.                                                                                                                                          │
 ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-[32m⠸[0m [1;32mAnalyze its result...[0m[2K[32m⠸[0m [1;32mAnalyze its result...[0m
-[?25h[1A[2K[?25lYour current list of known facts relevant for black box test is:
+[32m⠸[0m [1;32mAnalyze its result...[0m
+[2K[32m⠸[0m [1;32mAnalyze its result...[0m
+[?25h
+[1A[2K[?25lYour current list of known facts relevant for black box test is:
 
 Given that the OpenVAS setup result is not detailed, I'll provide an extrapolation based on what typically happens during and after the `openvas-setup` command execution in a pen-testing scenario. This 
 extrapolation will integrate known facts and possible outcomes into a unified list, reflecting a comprehensive pentesting approach.
@@ -897,10 +1777,31 @@ You executed the command 'tcpdump -i any -nn -s0 -w capture.pcap host 10.10.10.4
 ~~~
 
 Create a new list of facts that unifies the current list of facts as
-[32m⠋[0m [1;32mUpdating fact list..[0m[2Kwell as new information that you were able to retrieve from the executed command within a pentesting perspective. Try to keep the list of new facts as concise as possible but also in the layout of a pentesting 
+[32m⠋[0m [1;32mUpdating fact list..[0m
+[2Kwell as new information that you were able to retrieve from the executed command within a pentesting perspective. Try to keep the list of new facts as concise as possible but also in the layout of a pentesting 
 methodology. As well as serve for in context memory. It should also contain the lists of any critical information gathered.
-[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m[2K[32m⠏[0m [1;32mUpdating fact list..[0m[2K[32m⠋[0m [1;32mUpdating fact list..[0m[2K[32m⠙[0m [1;32mUpdating fact list..[0m[2K[32m⠹[0m [1;32mUpdating fact list..[0m[2K[32m⠸[0m [1;32mUpdating fact list..[0m[2K[32m⠼[0m [1;32mUpdating fact list..[0m[2K[32m⠴[0m [1;32mUpdating fact list..[0m[2K[32m⠦[0m [1;32mUpdating fact list..[0m[2K[32m⠧[0m [1;32mUpdating fact list..[0m[2K[32m⠇[0m [1;32mUpdating fact list..[0m^C[2K[32m⠇[0m [1;32mUpdating fact list..[0m
-[?25h[1A[2KTraceback (most recent call last):
+[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[2K[32m⠏[0m [1;32mUpdating fact list..[0m
+[2K[32m⠋[0m [1;32mUpdating fact list..[0m
+[2K[32m⠙[0m [1;32mUpdating fact list..[0m
+[2K[32m⠹[0m [1;32mUpdating fact list..[0m
+[2K[32m⠸[0m [1;32mUpdating fact list..[0m
+[2K[32m⠼[0m [1;32mUpdating fact list..[0m
+[2K[32m⠴[0m [1;32mUpdating fact list..[0m
+[2K[32m⠦[0m [1;32mUpdating fact list..[0m
+[2K[32m⠧[0m [1;32mUpdating fact list..[0m
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m^C
+[2K[32m⠇[0m [1;32mUpdating fact list..[0m
+[?25h
+[1A[2KTraceback (most recent call last):
   File "/home/user/Documents/hackingBuddyGPT/wintermute.py", line 460, in <module>
     recon()
   File "/home/user/Documents/hackingBuddyGPT/wintermute.py", line 176, in recon
@@ -958,7 +1859,9 @@ methodology. As well as serve for in context memory. It should also contain the 
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 KeyboardInterrupt
 
-[?2004h]0;user@debian: ~/Documents/hackingBuddyGPT[01;32muser@debian[00m:[01;34m~/Documents/hackingBuddyGPT[00m$ python3 wintermute.py  --target-ip 10.10.10.40[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kexit
-[?2004lexit
+[?2004h]0;user@debian: ~/Documents/hackingBuddyGPT[01;32muser@debian[00m:[01;34m~/Documents/hackingBuddyGPT[00m$ python3 wintermute.py  --target-ip 10.10.10.40
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kexit
+[?2004l
+exit
 
 Script done on 2024-04-07 19:09:19-06:00 [COMMAND_EXIT_CODE="130"]

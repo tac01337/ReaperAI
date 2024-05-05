@@ -1,6 +1,7 @@
 Script started on 2024-04-17 00:28:20-06:00 [TERM="xterm-256color" TTY="/dev/pts/13" COLUMNS="192" LINES="38"]
 [?2004h]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ exitpython3 reaper.py
-[?2004l[2;36m[00:28:22][0m[2;36m [0m[1;35mConfiguration[0m[1m([0m                                                                                                                                                           ]8;id=933981;file:///home/user/Documents/ReaperAI/src/reaper.py\[2mreaper.py[0m]8;;\[2m:[0m]8;id=685558;file:///home/user/Documents/ReaperAI/src/reaper.py#43\[2m43[0m]8;;\
+[?2004l
+[2;36m[00:28:22][0m[2;36m [0m[1;35mConfiguration[0m[1m([0m                                                                                                                                                           ]8;id=933981;file:///home/user/Documents/ReaperAI/src/reaper.py\[2mreaper.py[0m]8;;\[2m:[0m]8;id=685558;file:///home/user/Documents/ReaperAI/src/reaper.py#43\[2m43[0m]8;;\
 [2;36m           [0m    [33mtarget[0m=[1;35mHost[0m[1m([0m[33mip[0m=[32m'10.10.10.3'[0m, [33mhostname[0m=[3;35mNone[0m, [33muser[0m=[3;35mNone[0m, [33mpassword[0m=[3;35mNone[0m, [33mos[0m=[3;35mNone[0m[1m)[0m,                                                                                      [2m            [0m
 [2;36m           [0m    [33mlog[0m=[32m'memory'[0m,                                                                                                                                                        [2m            [0m
 [2;36m           [0m    [33mllm_connection[0m=[32m'openai_rest'[0m,                                                                                                                                        [2m            [0m
@@ -1322,8 +1323,7 @@ Script started on 2024-04-17 00:28:20-06:00 [TERM="xterm-256color" TTY="/dev/pts
 │ │   Cleanup                                                                                                        │ pending   │ Prepare steps to remove evidence of the pentest   │         │
 │ └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┴───────────┴───────────────────────────────────────────────────┘         │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-
-[?25h[2;36m[00:35:27][0m[2;36m [0m[33mStarting iteration [0m[1;33m0[0m[33m of [0m[1;33m5[0m                                                                                                                                               ]8;id=132331;file:///home/user/Documents/ReaperAI/src/reaper.py\[2mreaper.py[0m]8;;\[2m:[0m]8;id=491601;file:///home/user/Documents/ReaperAI/src/reaper.py#377\[2m377[0m]8;;\
+                                                                                                                                                                 ]8;id=132331;file:///home/user/Documents/ReaperAI/src/reaper.py\[2mreaper.py[0m]8;;\[2m:[0m]8;id=491601;file:///home/user/Documents/ReaperAI/src/reaper.py#377\[2m377[0m]8;;\
 [?25l╭─────────────────────────────────────────────────────────────────────────────────── [1;36mGot command from LLM:[0m ────────────────────────────────────────────────────────────────────────────────────╮
 │ python 49757.py 10.10.10.3                                                                                                                                                                   │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
@@ -1347,8 +1347,13 @@ Script started on 2024-04-17 00:28:20-06:00 [TERM="xterm-256color" TTY="/dev/pts
     obj, end = self.scan_once(s, idx)
                ^^^^^^^^^^^^^^^^^^^^^^
 json.decoder.JSONDecodeError: Invalid \escape: line 3 column 4 (char 13)
-[?2004h]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ [K]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ [K]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.pyexit[Kpython3 reaper.py
-[?2004l[2;36m[00:37:54][0m[2;36m [0m[1;35mConfiguration[0m[1m([0m                                                                                                                                                           ]8;id=860103;file:///home/user/Documents/ReaperAI/src/reaper.py\[2mreaper.py[0m]8;;\[2m:[0m]8;id=864746;file:///home/user/Documents/ReaperAI/src/reaper.py#43\[2m43[0m]8;;\
+[?2004h]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ 
+[K
+]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ 
+[K
+]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.pyexit[Kpython3 reaper.py
+[?2004l
+[2;36m[00:37:54][0m[2;36m [0m[1;35mConfiguration[0m[1m([0m                                                                                                                                                           ]8;id=860103;file:///home/user/Documents/ReaperAI/src/reaper.py\[2mreaper.py[0m]8;;\[2m:[0m]8;id=864746;file:///home/user/Documents/ReaperAI/src/reaper.py#43\[2m43[0m]8;;\
 [2;36m           [0m    [33mtarget[0m=[1;35mHost[0m[1m([0m[33mip[0m=[32m'10.10.10.3'[0m, [33mhostname[0m=[3;35mNone[0m, [33muser[0m=[3;35mNone[0m, [33mpassword[0m=[3;35mNone[0m, [33mos[0m=[3;35mNone[0m[1m)[0m,                                                                                      [2m            [0m
 [2;36m           [0m    [33mlog[0m=[32m'memory'[0m,                                                                                                                                                        [2m            [0m
 [2;36m           [0m    [33mllm_connection[0m=[32m'openai_rest'[0m,                                                                                                                                        [2m            [0m
@@ -3145,7 +3150,12 @@ json.decoder.JSONDecodeError: Invalid \escape: line 3 column 4 (char 13)
     response = llm_gpt.evaluate_task_progress(stage, tasks[current_task], time.time(), start_time, max_time_per_task, iterations, previous_state, state.result, max_iterations, min_new_information)
                                                      ~~~~~^^^^^^^^^^^^^^
 IndexError: list index out of range
-[?2004h]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.py[K]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.py[K]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.pyexit[K
-[?2004lexit
+[?2004h]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.py
+[K
+]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.py
+[K
+]0;user@debian: ~/Documents/ReaperAI/src[01;32muser@debian[00m:[01;34m~/Documents/ReaperAI/src[00m$ python3 reaper.pyexit[K
+[?2004l
+exit
 
 Script done on 2024-04-19 11:04:58-06:00 [COMMAND_EXIT_CODE="1"]
