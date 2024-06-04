@@ -14,7 +14,7 @@ class Configuration:
     target : Host    
     log : str = 'memory'
     llm_connection : str = "openai_rest"
-    model : str = "gpt-4-turbo-preview"
+    model : str = "gpt-4o"
     context_size : int = 128000
     
 def process_args_and_env(console) -> Configuration:
